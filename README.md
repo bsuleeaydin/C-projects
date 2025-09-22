@@ -1,2 +1,2 @@
-# C-projects
-C language practice codes and projects from university.
+## Files
+- **prime_check.c** → Prime number check program
