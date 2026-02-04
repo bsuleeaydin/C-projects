@@ -11,6 +11,7 @@ This repository includes my C programming practice codes and projects from unive
 - **min_max_array.c** → Finds the minimum and maximum values in a 10-element array
 - **factorial.c** → Calculates the factorial of a given number
 - **sum_numbers.c** → Calculates the sum of numbers from 1 to a given number
+- **soccer_sim.c → 2D football simulation with AI-controlled players and real-time physics
 
 ### Notes
 These codes are written for learning purposes and may be updated over time.
