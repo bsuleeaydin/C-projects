@@ -12,6 +12,7 @@ This repository includes my C programming practice codes and projects from unive
 - **factorial.c** → Calculates the factorial of a given number
 - **sum_numbers.c** → Calculates the sum of numbers from 1 to a given number
 - **soccer_sim.c → 2D football simulation with AI-controlled players and real-time physics
+- **number_triangle.c → Prints a right-aligned descending number triangle based on user input
 
 ### Notes
 These codes are written for learning purposes and may be updated over time.
